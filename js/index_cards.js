@@ -46,7 +46,7 @@ $(document).ready(function () {
     title: "Topic Modeling for United Nations (UN) speeches",
     description: "Building an LDA model to identify the key topics in the UN speeches.<br><b>Tools: R, R markdown, ggplot, NLP.</b>",
     demoUrl: "https://github.com/agkhairnar/Projects/tree/master/NLP%20Projects/UN%20speeches%20analysis",
-    previewUrl: "img/un.png",
+    previewUrl: "img/un.PNG",
     category: "data3"
   }, {
     id: 5,
